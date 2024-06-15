@@ -28,6 +28,7 @@ En `web.php`, realizamos diferentes pruebas para ver cómo se comporta el sitio 
    Auth::routes();
 
    Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+   ```
 
 2. **Return `Hello Word`**
     
