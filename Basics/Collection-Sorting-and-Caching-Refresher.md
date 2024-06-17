@@ -27,16 +27,16 @@ public static function all()
 
 - Le agregamos un ` ->sortBy('date');` para ordenar segun la fecha de la publicacion.
 
-### **Ejecutamos el comando de `php artisan tinker`
+### **Ejecutamos el comando de `php artisan tinker`**
 
 - El cual es una herramienta para interactuar directamente con la aplicacion Laravel desde la linea de comandos, esto facilita el desarrollo y la depuracion de la aplicacion web basadas en Laravel.
 
 
-### **Ejecutamos el comando de `cache('posts.all')`
+### **Ejecutamos el comando de `cache('posts.all')`**
 
 - Muestra todas las publicaciones en consola. 
 
-### **Ejecutamos el comando de `cache()->forget('posts.all')`
+### **Ejecutamos el comando de `cache()->forget('posts.all')`**
 
 - Esto nos devuelve un `true`
 
