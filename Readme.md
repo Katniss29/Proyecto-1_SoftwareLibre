@@ -26,6 +26,16 @@
 
 ### Blade
 
+- [10 - The Absolute Basics ](./Blade/The-Absolute-Basics.md)
+
+- [11 - Layouts Two Ways ](./Blade/Layouts-Two-Ways.md)
+  
+- [12 - A Few Tweaks and Consideration ](./Blade/A-Few-Tweaks-and-Consideration.md)
+
+
+
+
+
 ### Working with DataBases
 
 ### Integrate the Design 
