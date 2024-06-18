@@ -1,3 +1,5 @@
+- [Volver a las rutas](/Readme.md)
+
 ## Layouts Two Ways
 
 ### **Creacion de una nueva carpeta llamada `components` y un archivo dentro de ella llamado `layout.blade.php`**

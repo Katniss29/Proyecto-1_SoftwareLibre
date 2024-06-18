@@ -1,3 +1,5 @@
+- [Volver a las rutas](/Readme.md)
+
 ## A few Tweaks and Consideration 
 
 - Para este video realizamos modificaiones en el archivo `post` y le implementamos la plantilla de `layout` 

@@ -1,3 +1,5 @@
+- [Volver a las rutas](/Readme.md)
+
 ## Store Blog Posts as HTML Files 
 
 Para este video creamos una escructura de archivos por post para esto seguimos los siquientes pasos.

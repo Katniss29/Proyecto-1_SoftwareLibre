@@ -34,8 +34,38 @@
 
 
 
-
-
 ### Working with DataBases
 
+- [13 - Environment Files and-Databases ](./Databases/Environment-Files-and-Databases.md)
+  
+- [14 - The Absolute Basics](./Databases/The-Absolute-Basics.md)
+
+- [15 - Eloquent and the Active Record Pattern ](./Databases/Eloquent-and-the-Active-Record-Pattern.md)
+  
+- [16 - Make a Post Model and Migration ](./Databases/Make-a-Post-Model-and-Migration.md)
+  
+- [17 - Enloquent Updates and HTML Escaping ](./Databases/Enloquent-Updates-and-HTML-Escaping.md)
+  
+- [18 - Ways to Mitigate Mass Assignment  ](./Databases/Ways-to-Mitigate-Mass-Assignment.md)
+
+- [19 - Route Model Binding ](./Databases/Route-Model-Binding.md)
+
+- [20 - Your First Eloquent Relationship ](./Databases/Your-First-Eloquent-Relationship.md)
+
+- [21 - Show All Posts Associated With a Category ](./Databases/Show-All-Posts-Associated-With-a-Category.md)
+  
+- [22 - Clock and the N1 Problem ](./Databases/Clock-and-the-N1-Problem.md)
+
+- [23 - Databases Seeding Saves Time ](./Databases/Databases-Seeding-Saves-Time.md)
+  
+- [24 - Turbo Boots With Factories ](./Databases/Turbo-Boots-With-Factories.md)
+- 
+- [25 - View Al Posts By An Author ](./Databases/View-Al-Posts-By-An-Author.md)
+
+- [26 - Eager Load Relationships on an Existing Model ](./Databases/Eager-Load-Relationships-on-an-Existing-Model.md)
+
+
+
 ### Integrate the Design 
+
+- [27 - Convert the HTML and CSS to Blade ](./Design/Convert-the-HTML-and-CSS-to-Blade.md)

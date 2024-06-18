@@ -1,3 +1,5 @@
+- [Volver a las rutas](/Readme.md)
+
 ## Make a Post Model and Migration 
 
 - Para este video empezamos borrando el archivo de `Post`
