@@ -59,7 +59,7 @@
 - [23 - Databases Seeding Saves Time ](./Databases/Databases-Seeding-Saves-Time.md)
   
 - [24 - Turbo Boots With Factories ](./Databases/Turbo-Boots-With-Factories.md)
-- 
+  
 - [25 - View Al Posts By An Author ](./Databases/View-Al-Posts-By-An-Author.md)
 
 - [26 - Eager Load Relationships on an Existing Model ](./Databases/Eager-Load-Relationships-on-an-Existing-Model.md)
@@ -69,3 +69,41 @@
 ### Integrate the Design 
 
 - [27 - Convert the HTML and CSS to Blade ](./Design/Convert-the-HTML-and-CSS-to-Blade.md)
+
+- [28 - Blade Components and CSS Grids ](./Design/Blade-Components-and-CSS-Grids.md)
+
+- [29 - Convert the Blog Post Page ](./Design/Convert-the-Blog-Post-Page.md)
+  
+- [30 - A Small JavaScript Dropdown Detour ](./Design/A-Small-JavaScript-Dropdown-Detour.md)
+
+- [31 - How to Extract a Dropdown Blade Component ](./Design/How-to-Extract-a-Dropdown-Blade-Component.md)
+
+- [32 - Quick Tweak and Clean Up ](./Design/Quick-Tweak-and-Clean-Up.md)
+
+
+### Search
+
+### Filtering
+
+### Pagination 
+
+### Forms and Authentication 
+
+
+
+
+
+
+
+
+
+
+
+
+### Comments
+
+### Newsletters And APIs
+
+### Admin Section
+
+### Conclusion
