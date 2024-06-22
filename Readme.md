@@ -83,6 +83,10 @@
 
 ### Search
 
+- [33 - Search (The Messy Way) ](./Search/Search-the-Messy-Way.md)
+
+- [34 - Search (The Cleaner Way) ](./Search/Search-the-Cleaner-Way.md)
+
 ### Filtering
 
 ### Pagination 
