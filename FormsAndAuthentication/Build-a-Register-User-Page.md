@@ -55,6 +55,6 @@
 ### Modificamos las rutas para que funcionen correctamete 
 
 ```php
-    Route::get('register', [RegisterController::class, 'create'])->middleware('guest');
-    Route::post('register', [RegisterController::class, 'store'])->middleware('guest');
+    Route::get('registers', [RegisterController::class, 'create'])->middleware('guest');
+    Route::post('registers', [RegisterController::class, 'store'])->middleware('guest');
 ```
