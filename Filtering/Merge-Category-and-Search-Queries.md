@@ -1,3 +1,5 @@
+- [Volver a las rutas](/Readme.md)
+
 ## Merge Category and Search Queries
 
 ## Para este codigo modificamos dos archivos nada mas `category-dropdown` y `_header`

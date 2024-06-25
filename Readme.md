@@ -89,21 +89,36 @@
 
 ### Filtering
 
+- [35 - Advanced Eloquent Query Constraints ](./Filtering/Advanced-Eloquent-Query-Constraints.md)
+  
+- [36 - Extract a Category Dropdown Blade Component ](./Filtering/Extract-a-Category-Dropdown-Blade-Component.md)
+  
+- [37 - Author Filtering ](./Filtering/Author-Filtering.md)
 
+- [38 - Merge Category and Search Queries ](./Filtering/Merge-Category-and-Search-Queries.md)
+  
+- [39 - Fix a Confusing Eloquent Query-Bug ](./Filtering/Fix-a-Confusing-Eloquent-Query-Bug.md)
 
 ### Pagination 
 
+- [40 - Laughably Simple Pagination ](./Pagination/Laughably-Simple-Pagination.md)
+
+  
 ### Forms and Authentication 
 
+- [41 - Build a Register User Page ](./FormsAndAuthentication/Build-a-Register-User-Page.md)
 
+- [42 - Automatic Password Hashing With Mutators ](./FormsAndAuthentication/Automatic-Password-Hashing-With-Mutators.md)
 
+- [43 - Failed Validation and Old Input Data ](./FormsAndAuthentication/Failed-Validation-and-Old-Input-Data.md)
 
+- [44 - Show a Success Flash Message ](./FormsAndAuthentication/Show-a-Success-Flash-Message.md)
 
+- [45 - Login and Logout ](./FormsAndAuthentication/Login-and-Logout.md)
 
+- [46 - Build the log in page ](./FormsAndAuthentication/Build-the-log-in-page.md)
 
-
-
-
+- [47 - Laravel Breeze Quick Peek ](./FormsAndAuthentication/Laravel-Breeze-Quick-Peek.md)
 
 
 ### Comments

@@ -1,3 +1,6 @@
+- [Volver a las rutas](/Readme.md)
+
+
 ## Fix a Confusing Eloquent Query Bug
 
 ### Para este video solo trabajamos con el archivo `Post` 
