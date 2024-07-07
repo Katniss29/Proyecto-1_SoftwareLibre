@@ -1,3 +1,5 @@
+- [Volver a las rutas](/Readme.md)
+
 ## Extend the Admin Layout 
 
 - En este video agregamos estilos, agregamos componentes  y mejoramos las rutas.

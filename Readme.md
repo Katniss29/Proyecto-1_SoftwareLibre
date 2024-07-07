@@ -123,8 +123,46 @@
 
 ### Comments
 
+- [48 - Write the Markup for a Post Comment ](./Comments/Write-the-Markup-for-a-Post-Comment.md)
+
+- [49 - Table Consistency and Foreing Key Constraints](./Comments/Table-Consistency-and-Foreing-Key-Constraints.md)
+
+- [50 - Make the Comments Section Dynamic ](./Comments/Make-the-Comments-Section-Dynamic.md)
+
+- [51 - Desing the Comment Form](./Comments/Desing-the-Comment-Form.md)
+
+- [52 - Activate the Comment Form ](./Comments/Activate-the-Comment-Form.md)
+
+- [53 - Some Light Chapter Clean Up ](./Comments/Some-Light-Chapter-Clean-Up.md)
+
+
 ### Newsletters And APIs
+
+- [54 - Mailchimp API Tinkering ](./NewslettersAndAPIs/Mailchimp-API-Tinkering.md)
+
+- [55 - Make the Newsletter Form Work. ](./NewslettersAndAPIs/Make-the-Newsletter-Form-Work.md)
+
+- [56 - Extract a Newsletter Service ](./NewslettersAndAPIs/Extract-a-Newsletter-Service.md)
+
+- [57 - Toy Chests and Contracts  ](./NewslettersAndAPIs/Toy-Chests-and-Contracts.md)
+
 
 ### Admin Section
 
-### Conclusion
+- [58 - Limit Access to Only Admins ](./AdminSection/Limit-Access-to-Only-Admins.md)
+
+- [59 - Create the Publish Post Form ](./AdminSection/Create-the-Publish-Post-Form.md)
+
+- [60 - Validate and Store Post Thumbnails ](./AdminSection/Validate-and-Store-Post-Thumbnails.md)
+
+- [61 - Extract Form Specific Blade Components](./AdminSection/Extract-Form-Specific-Blade-Components.md)
+
+- [62 - Extend the Admin Layout ](./AdminSection/Extend-the-Admin-Layout.md)
+
+- [63 - Create a Form to Edit and Delete Posts ](./AdminSection/Create-a-Form-to-Edit-and-Delete-Posts.md)
+
+- [64 - Group and Store Validation Logic ](./AdminSection/Group-and-Store-Validation-Logic.md)
+
+- [65 - All About Authorization ](./AdminSection/All-About-Authorization.md)
+
+

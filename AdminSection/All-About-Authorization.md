@@ -1,3 +1,5 @@
+- [Volver a las rutas](/Readme.md)
+
 ## All About Authorization
 
 - Para este video optimizamos y eliminamos ciertas rutas que no se necesitan, se borra el middleware ya que no se utiliza, se agrega la autorización personalizanda usando `Gate`  y `Blade`

@@ -1,3 +1,5 @@
+- [Volver a las rutas](/Readme.md)
+
 ## Create a Form to Edit and Delete Posts
 
 ## Para este video agragamos la funciones de modificar y eliminar creamos una estructura dividida donde hay una ruta para ver todos los post otra para modificar y eliminar los post, otra para salirse, esto modificando el siguiente codigo 

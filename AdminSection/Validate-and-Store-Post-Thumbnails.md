@@ -1,3 +1,5 @@
+- [Volver a las rutas](/Readme.md)
+
 ## Validate and Store Post Thumbnails 
 
 ## Para este video se creo un link para cargar las imagenes, se activa el modo public en  `filesystems `, se agrega el atributo para guardar como una ip en la base de datos llamada  `$table->string('thumbnail')->nullable(); ` se hace el migrate fresh, se agrega las rutas para cargar las imagenes asignadas en los diferentes componentes.
